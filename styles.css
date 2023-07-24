@@ -96,7 +96,7 @@ a img {
 @media only screen and (max-width: 600px) {
     h1 {
         font-size: 15vw;
-        max-width: 300px;
+        max-width: 250px;
         margin: 3rem auto 2rem auto;
     }
 
